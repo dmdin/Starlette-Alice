@@ -20,4 +20,5 @@ Install Now, then run inside the project directory
 $ now
 ```
 If you run firstly, you will have to login via the email confirmation and create a project. Repeat the same steps with public link and your skill settings as with ngrok.
-Thats all, so Alice got another useful skill!
+
+#### Thats all, so Alice got another useful skill!
