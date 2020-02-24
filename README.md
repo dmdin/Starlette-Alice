@@ -2,7 +2,7 @@
 
 Template app for [Yandex Alice](https://yandex.ru/alice) made on [Starlette](https://www.starlette.io/) with ready from the box [Now](https://zeit.co/) deployment
 
-### Running on your PC
+### Running on your PC without Now (only for debug!)
 
 ```sh
 $ pip3 install -r requirements.txt
