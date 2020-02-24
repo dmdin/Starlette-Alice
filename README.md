@@ -15,7 +15,7 @@ $ ngrok http 8000
 Then copy your public link and paste it into your skill settings in [Alice developer dashboard](https://dialogs.yandex.ru/developer)
 
 ### Deployment
-Install Now, then run inside project directory
+Install Now, then run inside the project directory
 ```sh
 $ now
 ```
